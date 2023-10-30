@@ -1,6 +1,6 @@
 - 🤙 Hi, I’m @lkaiser7
 - 🌱 I’m interested in environmental studies and climate change
-- 💻 I’m currently working on modeling and building shiny apps
+- 💻 I’m a data management specialist with the Pacific Islands Ocean Observing System
 - 📨 How to reach me lkaiser7@hawaii.edu 
 
 <!---
